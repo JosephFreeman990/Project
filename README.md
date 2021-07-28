@@ -18,8 +18,6 @@ The following features are provided:
 * `guest-users`​: Number of guest users using the rental e-scooters in that hour
 * `registered-users`​: Number of registered users using the rental e-scooters in that hour
 
-data url: https://aisgaiap.blob.core.windows.net/aiap6-assessment-data/scooter_rental_data.csv
-
 ## Table of Content
 1) Overview of the machine learning pipeline
 2) Running of the machine learning pipeline
