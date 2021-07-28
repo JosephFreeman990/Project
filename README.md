@@ -1,7 +1,5 @@
 # MACHINE LEARNING PIPELINE (PREDICT ACTIVE USERS FOR E-SCOOTER RENTAL)
 
-This is a python project submission for AI Apprenticeship Programme Technical Assessment.
-
 This project is for the prediction of active users ('guest-users' and 'registered-users') for an e-scooter rental service in a city.
 
 The following features are provided:
